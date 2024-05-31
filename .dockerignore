@@ -1,0 +1,9 @@
+README.md
+Makefile
+pyproject.toml
+test_example.py
+main.py
+tests
+.pytest_cache
+.env_example
+.gitignore
